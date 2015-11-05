@@ -1,0 +1,17 @@
+{
+	"name": "wds-faq-page",
+	"title": "WDS FAQ Page!",
+	"version": "1.0.0",
+	"description": "Easily add Frequently Asked Questions to any WordPress Page!",
+	"author": {
+		"name": "WebDevStudios",
+		"url": "http://webdevstudios.com"
+	},
+	"license": "GPLv2",
+	"devDependencies": {
+	    "grunt": "latest",
+	    "grunt-contrib-watch": "latest",
+	    "grunt-wp-i18n": "latest",
+	    "load-grunt-tasks": "latest"
+	}
+}

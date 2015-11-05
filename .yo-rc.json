@@ -1,0 +1,17 @@
+{
+  "generator-plugin-wp": {
+    "name": "WDS FAQ Page!",
+    "homepage": "http://webdevstudios.com",
+    "description": "Easily add Frequently Asked Questions to any WordPress Page!",
+    "version": "1.0.0",
+    "author": "WebDevStudios",
+    "authoremail": "contact@webdevstudios.com",
+    "authorurl": "http://webdevstudios.com",
+    "license": "GPLv2",
+    "slug": "wds-faq-page",
+    "classname": "WDS_FAQ_Page",
+    "classprefix": "WDS_FAQ_",
+    "prefix": "wds_faq_page",
+    "year": 2015
+  }
+}

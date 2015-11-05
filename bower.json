@@ -1,0 +1,18 @@
+{
+  "name": "wds-faq-page",
+  "description": "Easily add Frequently Asked Questions to any WordPress Page!",
+  "license": "GPLv2",
+  "authors": [
+    "WebDevStudios"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
