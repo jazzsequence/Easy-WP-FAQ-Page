@@ -87,12 +87,7 @@ class WDS_FAQ_CMB {
 		$cmb->add_group_field( $group_field_id, array(
 			'name' => esc_html__( 'Answer', 'wds-faq-page' ),
 			'id'   => 'answer',
-			'type' => 'wysiwyg',
-			'options' => array(
-				'teeny'         => true,
-				'media_buttons' => false,
-				'textarea_rows' => 10,
-			),
+			'type' => 'textarea',
 		) );
 
 	}
