@@ -140,6 +140,7 @@ class WDS_FAQ_Page {
 		$this->path     = plugin_dir_path( __FILE__ );
 
 		$this->plugin_classes();
+		require_once( $this->path . '/includes/template-tags.php' );
 	}
 
 	/**
