@@ -1,6 +1,6 @@
-# WDS FAQ Page! #
-**Contributors:**      WebDevStudios  
-**Donate link:**       http://webdevstudios.com  
+# Easy WP FAQ Page! #
+**Contributors:**      jazzsequence  
+**Donate link:**       https://paypal.me/jazzsequence  
 **Tags:**  
 **Requires at least:** 4.3  
 **Tested up to:**      4.3  
@@ -17,7 +17,7 @@ Easily add Frequently Asked Questions to any WordPress Page!
 ### Manual Installation ###
 
 1. Upload the entire `/wds-faq-page` directory to the `/wp-content/plugins/` directory.
-2. Activate WDS FAQ Page! through the 'Plugins' menu in WordPress.
+2. Activate Easy WP FAQ Page! through the 'Plugins' menu in WordPress.
 
 ## Frequently Asked Questions ##
 
